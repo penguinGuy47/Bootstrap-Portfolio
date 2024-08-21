@@ -1,3 +1,11 @@
 .skills {
     text-align: center;
 }
+
+#header {
+    background-color: #3F2E3E;
+}
+
+#skills {
+    background-color: #1E201E;
+}
