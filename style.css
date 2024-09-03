@@ -1,9 +1,19 @@
-.skills {
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.intro-text {
     text-align: center;
 }
 
 #header {
-    background-color: #3F2E3E;
+    background-color: #1E201E;
 }
 
 #skills {
